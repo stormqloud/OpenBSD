@@ -1,8 +1,10 @@
 # basic pfctl control
 # ==
 # Related: http://www.OpenBSD.org
-# Last update: Tue Dec 28, 2004
-# ==
+# Last update: Tue Dec 28, 2013
+# by wlloyd @ stormcloud.ca 
+# Make the line scut and pasteable
+==
 # Note:
 # this document is only provided as a basic overview
 # for some common pfctl commands and is by no means
